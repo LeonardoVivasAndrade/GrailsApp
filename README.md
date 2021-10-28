@@ -32,7 +32,7 @@ Pasos para instalar Grails
 * Agregar la carpeta descompimida a las variables de entorno ($GRAILS_HOME)
 
 *** 
-Pasos para instalar Groovy
+Pasos para instalar Groovy (Sólo en entorno desarrollo)
 * Descargar Groovy en [Groovy Apache](https://groovy.apache.org/download.html) ó https://groovy.apache.org/
 * Instalar Grrovy [Cómo hacerlo](https://groovy-lang.org/install.html)
 * Agregar Groovy a las variables de entorno (GROOVY_HOME)
