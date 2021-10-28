@@ -3,16 +3,28 @@
 
 ## Table of Contents
 1. [General](#general)
-2. [Tecnologías](#tecnologías)
-3. [Instalación](#instalación)
-4. [Colaboración](#colaboración)
+2. [Demo](#demo)
+3. [Tecnologías](#tecnologías)
+4. [Instalación](#instalación)
+5. [Colaboración](#colaboración)
 
 ### General
 * Ejemplo de app web sencilla usando el Framework Grails, este framework se basa en Lenguaje Java y en Groovy para crear app web o [plugins](https://plugins.grails.org/) de forma sencilla y rapida, gracias a la integración con muchas otras tecnologías y la generacion de código, Grails genera el código de la capas vistas, controlador y servicios, agilizando la inicializacion de estas capas en el proyecto, a su vez genera una conexión con la capa de datos mucho más rapida y ágil de usar.
 
+### Demo
+* Revise el demo en https://grailsapp.tk/
+
+El demo es una app web sencilla alojada en una instancia EC2 de [Amazon Web Service](https://aws.amazon.com/) generada por Grails con conexión a una base de datos mysql en [Amazon RDS](https://aws.amazon.com/es/rds/) puede probar inicio de sesión, el usuario de login es usuario: usuario@usuario.com - contraseña: 1, a su vez puede crear, editar, consultar y eliminar usuarios, estudiantes y notas y asignarlas a un estudiante creado.
+
 ### Capturas
 
 ![image](https://user-images.githubusercontent.com/46111379/139271020-d6e9f2d4-6da1-4a44-933b-98853dd28401.png)
+
+![image](https://user-images.githubusercontent.com/46111379/139337744-b0d73b2b-a6d9-4d40-81bc-5cdb2e10c051.png)
+
+![image](https://user-images.githubusercontent.com/46111379/139337783-98c3610f-44d2-449a-a8fa-2184776217dd.png)
+
+![image](https://user-images.githubusercontent.com/46111379/139337804-23ad6253-61c5-4544-80f0-2864a93cf25d.png)
 
 ## Tecnologías
 ***
@@ -67,6 +79,6 @@ Pasos para configurar base de datos Mysql
 ## Colaboración
 ***
 Equipo de trabajo
-* Jose Eduardo Rozo
-* Enmanuel Martínez
-* Angel Vivas 
+* [Jose Eduardo Rozo](https://github.com/joseedye)
+* [Enmanuel Martínez](https://github.com/enmanuelM9999)
+* [Angel Vivas](https://github.com/LeonardoVivasAndrade)
